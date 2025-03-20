@@ -1,4 +1,4 @@
-#**Chat With Image AI Model**
+#Chat with Image
 
 
 
