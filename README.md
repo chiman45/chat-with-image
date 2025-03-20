@@ -1,4 +1,7 @@
-Chat With Image AI Model
+**Chat With Image AI Model**
+
+
+
 Description
 The Chat With Image AI Model is an innovative AI-powered application that enables users to interact with images using natural language. This system combines computer vision and natural language processing to process and analyze images, allowing users to ask questions and receive intelligent, context-aware responses based on the content of the image. Whether identifying objects, explaining visual elements, or providing detailed insights, this tool enhances the user experience by enabling image-based conversations.
 
