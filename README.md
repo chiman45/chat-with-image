@@ -2,14 +2,14 @@
 
 
 
-Description
+## Description
 The Chat With Image AI Model is an innovative AI-powered application that enables users to interact with images using natural language. This system combines computer vision and natural language processing to process and analyze images, allowing users to ask questions and receive intelligent, context-aware responses based on the content of the image. Whether identifying objects, explaining visual elements, or providing detailed insights, this tool enhances the user experience by enabling image-based conversations.
 
-Features
+## Features
 Image Analysis: The model recognizes and analyzes objects, scenes, and other visual elements in the image.
 Conversational Interface: Users can ask multiple questions about the image, and the model provides relevant responses.
 Seamless Integration: Combines computer vision with AI-driven natural language processing to offer smooth interaction with visual content.
-Use Cases
+## Use Cases
 Educational Tools: Enhance learning experiences by allowing students to ask questions about images or diagrams.
 Accessibility: Provide a platform for visually impaired users to get detailed descriptions of images.
 Interactive Web/Apps: Add a dynamic and interactive feature to websites or applications for enhanced user engagement.
@@ -17,7 +17,7 @@ Installation
 Follow the steps below to set up and run the project on your local machine:
 
 1. Clone the Repository
-bash
+```bash```
 Copy
 Edit
 git clone https://github.com/yourusername/chat-with-image-ai.git
