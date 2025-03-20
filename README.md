@@ -20,8 +20,8 @@ Follow the steps below to set up and run the project on your local machine:
 ```bash```
 Copy
 Edit
-git clone https://github.com/yourusername/chat-with-image-ai.git
-cd chat-with-image-ai
+`git clone https://github.com/yourusername/chat-with-image-ai.git`
+`cd chat-with-image-ai`
 2. Create a Virtual Environment (Optional but recommended)
 bash
 Copy
